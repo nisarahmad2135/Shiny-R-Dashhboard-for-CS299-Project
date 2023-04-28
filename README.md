@@ -1,2 +1,4 @@
-# Shiny-R-Dashhboard-for-CS299-Project
-I will be working on Analysis of some Inflation rates from datasets taken from Internstional Monetary Fund using R studio and Shiny.
+# Shiny-R-Dashhboard-for-CS299-Project.
+This project provides some insight into the Inflation rates of various countries and some world economic gaints. 
+i have taken datasets taken International Monetary Fund (open source ) and tried to develop a dashboard using R studio and Shiny and deployed the Application on server for usage online.
+
