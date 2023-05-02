@@ -1,0 +1,13 @@
+name: shinyweb
+title: shinyweb
+username:
+account: nisar
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8980367
+bundleId: 7165310
+url: https://nisar.shinyapps.io/shinyweb/
+when: 1683054774.53903
+lastSyncTime: 1683054774.53904
+asMultiple: FALSE
+asStatic: FALSE
